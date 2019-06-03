@@ -1,5 +1,9 @@
 # PyData Munich meetup talk
 
+
+WARNING: Some of the functions used are now deprecated. It is unlikely I will correct this, due to lack of time.
+
+
 Here's a notebook and some resources I used at the PyData Munich meetup talk (January 2018).
 
 I know we all love Python and it's great to work and play around with, but if you have a serious project and you're eager to do something with Bayesian networks, then check out <a href=http://www.phil.cmu.edu/projects/tetrad/>the Tetrad project</a> - it's powerful, well documented and **open-source**. 
